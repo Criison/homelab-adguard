@@ -61,4 +61,13 @@ Nach dem Hinzufügen weiterer Sicherheits-Filterlisten (insbesondere HaGeZi's Th
 ## Screenshots
 
 **Dashboard-Übersicht:**
+## Screenshots
+
+**Dashboard-Übersicht:**
 ![AdGuard Dashboard](adguard_geschwaerzt.png)
+
+**DHCP – statische Zuweisungen:**
+![DHCP Zuweisungen](dhcp_geschwaerzt.png)
+
+**Aktivierte Sicherheits-Blocklisten:**
+![Blocklisten](DHCP Blocklisten.png)

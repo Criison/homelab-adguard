@@ -7,7 +7,6 @@ AdGuard Home läuft als eigener LXC-Container auf meinem Proxmox-Server und übe
 ## Was ich gemacht habe
 
 ### Filterlisten-Konfiguration
-Ich habe bewusst zwischen zwei Kategorien unterschieden, statt wahllos Listen zu aktivieren:
 
 **Werbung & Tracking:**
 - AdGuard DNS filter
@@ -49,7 +48,6 @@ Nach dem Hinzufügen weiterer Sicherheits-Filterlisten (insbesondere HaGeZi's Th
 - DNS als zentraler Single Point of Failure in einem Netzwerk – Ausfall des DNS-Servers wirkt wie ein kompletter Internetausfall, obwohl die eigentliche Verbindung funktioniert
 - Systematisches Troubleshooting: Symptom (Netzwerk langsam) → Ressourcenmonitoring → Ursache identifiziert → Konfiguration angepasst → Erfolg verifiziert
 - Aufbau von Ausfallsicherheit durch Fallback-DNS-Konfiguration
-- Grundlagen zu DNS über HTTPS (DoH) und wann eine Verschlüsselung innerhalb des eigenen LANs sinnvoll ist bzw. nicht
 
 ## Verwendete Technologien
 - AdGuard Home

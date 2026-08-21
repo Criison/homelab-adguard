@@ -70,4 +70,4 @@ Nach dem Hinzufügen weiterer Sicherheits-Filterlisten (insbesondere HaGeZi's Th
 ![DHCP Zuweisungen](dhcp_geschwaerzt.png)
 
 **Aktivierte Sicherheits-Blocklisten:**
-![Blocklisten](DHCP Blocklisten.png)
+![Blocklisten](DHCP_Blocklisten.png)
